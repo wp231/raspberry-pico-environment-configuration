@@ -1,0 +1,13 @@
+Test/build/blink.bin
+Test/build/blink.dis
+Test/build/blink.elf
+Test/build/blink.elf.map
+Test/build/blink.hex
+Test/build/CMakeCache.txt
+Test/build/CMakeFiles
+Test/build/cmake_install.cmake
+Test/build/elf2uf2
+Test/build/generated
+Test/build/Makefile
+Test/build/pico-sdk
+*.swp
