@@ -242,3 +242,12 @@ clang
 -I/home/<UserName>/pico/pico-sdk/src/rp2_common/pico_unique_id/include
 ```
 
+or
+
+- [compile_commands.json](Test/build/compile_commands.json) 
+
+```shell
+cmake -DCMAKE_EXPORT_COMPILE_COMMANDS=1 ..
+ln -s ./build/compile_commands.json ./compile_commands.json
+```
+
